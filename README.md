@@ -1,4 +1,4 @@
-# Babylon-5-Flag-Pack
+# Babylon 5 Flag Pack
 A collection of fan art images to add visual elements from the B5 universe to your KSP builds.
 
 This pack may be updated as I continue to implement more material related to the series. If you have a request/suggestion or want to contribute fan art, please contact me at: robinsrevenge88@gmail.com
